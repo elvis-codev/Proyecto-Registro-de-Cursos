@@ -1,0 +1,112 @@
+[
+    {
+        "model": "cursosapp.estudiante",
+        "pk": "987654321",
+        "fields": {
+            "rut": "987654321",
+            "nombre": "María",
+            "apellido": "Gutiérrez",
+            "fecha_nac": "2002-05-15",
+            "direccion": 1
+        }
+    },
+    {
+        "model": "cursosapp.estudiante",
+        "pk": "987654322",
+        "fields": {
+            "rut": "987654322",
+            "nombre": "Pedro",
+            "apellido": "Martínez",
+            "fecha_nac": "2001-09-20",
+            "direccion": 2
+        }
+    },
+    {
+        "model": "cursosapp.estudiante",
+        "pk": "987654323",
+        "fields": {
+            "rut": "987654323",
+            "nombre": "Ana",
+            "apellido": "López",
+            "fecha_nac": "2003-11-10",
+            "direccion": 3
+        }
+    },
+    {
+        "model": "cursosapp.estudiante",
+        "pk": "987654324",
+        "fields": {
+            "rut": "987654324",
+            "nombre": "Juan",
+            "apellido": "Rodríguez",
+            "fecha_nac": "2000-07-25",
+            "direccion": 4
+        }
+    },
+    {
+        "model": "cursosapp.estudiante",
+        "pk": "987654325",
+        "fields": {
+            "rut": "987654325",
+            "nombre": "Carla",
+            "apellido": "Sánchez",
+            "fecha_nac": "2004-03-05",
+            "direccion": 5
+        }
+    },
+    {
+        "model": "cursosapp.estudiante",
+        "pk": "987654326",
+        "fields": {
+            "rut": "987654326",
+            "nombre": "Javier",
+            "apellido": "Pérez",
+            "fecha_nac": "1999-12-30",
+            "direccion": 6
+        }
+    },
+    {
+        "model": "cursosapp.estudiante",
+        "pk": "987654327",
+        "fields": {
+            "rut": "987654327",
+            "nombre": "Laura",
+            "apellido": "García",
+            "fecha_nac": "2002-08-18",
+            "direccion": 7
+        }
+    },
+    {
+        "model": "cursosapp.estudiante",
+        "pk": "987654328",
+        "fields": {
+            "rut": "987654328",
+            "nombre": "Diego",
+            "apellido": "Hernández",
+            "fecha_nac": "2001-04-12",
+            "direccion": 8
+        }
+    },
+    {
+        "model": "cursosapp.estudiante",
+        "pk": "987654329",
+        "fields": {
+            "rut": "987654329",
+            "nombre": "Valentina",
+            "apellido": "Fernández",
+            "fecha_nac": "2003-10-08",
+            "direccion": 9
+        }
+    },
+    {
+        "model": "cursosapp.estudiante",
+        "pk": "987654330",
+        "fields": {
+            "rut": "987654330",
+            "nombre": "Gabriel",
+            "apellido": "Morales",
+            "fecha_nac": "2000-06-22",
+            "direccion": 10
+        }
+    }
+]

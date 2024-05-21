@@ -1,0 +1,162 @@
+[
+    {
+        "model": "cursosapp.curso",
+        "pk": "MATAV201",
+        "fields": {
+            "codigo": "MATAV201",
+            "nombre": "Matemáticas Avanzadas II",
+            "version": 1,
+            "profesor": [
+                "456123789"
+            ],
+            "activo": true,
+            "creacion_registro": "2024-05-21",
+            "modificacion_registro": "2024-05-21",
+            "creado_por": "Director Académico"
+        }
+    },
+    {
+        "model": "cursosapp.curso",
+        "pk": "MATBA202",
+        "fields": {
+            "codigo": "MATBA202",
+            "nombre": "Matemáticas Básicas II",
+            "version": 1,
+            "profesor": [
+                "789456123"
+            ],
+            "activo": true,
+            "creacion_registro": "2024-05-21",
+            "modificacion_registro": "2024-05-21",
+            "creado_por": "Director Académico"
+        }
+    },
+    {
+        "model": "cursosapp.curso",
+        "pk": "INTEI203",
+        "fields": {
+            "codigo": "INTEI203",
+            "nombre": "Inglés Intermedio II",
+            "version": 1,
+            "profesor": [
+                "123789456"
+            ],
+            "activo": true,
+            "creacion_registro": "2024-05-21",
+            "modificacion_registro": "2024-05-21",
+            "creado_por": "Director Académico"
+        }
+    },
+    {
+        "model": "cursosapp.curso",
+        "pk": "INFBAS204",
+        "fields": {
+            "codigo": "INFBAS204",
+            "nombre": "Informática Básica II",
+            "version": 1,
+            "profesor": [
+                "456789123"
+            ],
+            "activo": true,
+            "creacion_registro": "2024-05-21",
+            "modificacion_registro": "2024-05-21",
+            "creado_por": "Director Académico"
+        }
+    },
+    {
+        "model": "cursosapp.curso",
+        "pk": "HISUNI205",
+        "fields": {
+            "codigo": "HISUNI205",
+            "nombre": "Historia Universal II",
+            "version": 1,
+            "profesor": [
+                "789123456"
+            ],
+            "activo": true,
+            "creacion_registro": "2024-05-21",
+            "modificacion_registro": "2024-05-21",
+            "creado_por": "Director Académico"
+        }
+    },
+    {
+        "model": "cursosapp.curso",
+        "pk": "FISGEN206",
+        "fields": {
+            "codigo": "FISGEN206",
+            "nombre": "Física General II",
+            "version": 1,
+            "profesor": [
+                "123456789"
+            ],
+            "activo": true,
+            "creacion_registro": "2024-05-21",
+            "modificacion_registro": "2024-05-21",
+            "creado_por": "Director Académico"
+        }
+    },
+    {
+        "model": "cursosapp.curso",
+        "pk": "LENGES207",
+        "fields": {
+            "codigo": "LENGES207",
+            "nombre": "Lengua Española II",
+            "version": 1,
+            "profesor": [
+                "789123789"
+            ],
+            "activo": true,
+            "creacion_registro": "2024-05-21",
+            "modificacion_registro": "2024-05-21",
+            "creado_por": "Director Académico"
+        }
+    },
+    {
+        "model": "cursosapp.curso",
+        "pk": "EDFIS208",
+        "fields": {
+            "codigo": "EDFIS208",
+            "nombre": "Educación Física II",
+            "version": 1,
+            "profesor": [
+                "456789456"
+            ],
+            "activo": true,
+            "creacion_registro": "2024-05-21",
+            "modificacion_registro": "2024-05-21",
+            "creado_por": "Director Académico"
+        }
+    },
+    {
+        "model": "cursosapp.curso",
+        "pk": "CINATU209",
+        "fields": {
+            "codigo": "CINATU209",
+            "nombre": "Ciencias Naturales II",
+            "version": 1,
+            "profesor": [
+                "123123123"
+            ],
+            "activo": true,
+            "creacion_registro": "2024-05-21",
+            "modificacion_registro": "2024-05-21",
+            "creado_por": "Director Académico"
+        }
+    },
+    {
+        "model": "cursosapp.curso",
+        "pk": "BIOCEL210",
+        "fields": {
+            "codigo": "BIOCEL210",
+            "nombre": "Biología Celular II",
+            "version": 1,
+            "profesor": [
+                "456456456"
+            ],
+            "activo": true,
+            "creacion_registro": "2024-05-21",
+            "modificacion_registro": "2024-05-21",
+            "creado_por": "Director Académico"
+        }
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "model": "cursosapp.estudiante",
+        "pk": "987654321",
+        "fields": {
+            "rut": "987654321",
+            "nombre": "María",
+            "apellido": "Gutiérrez",
+            "fecha_nac": "2002-05-15",
+            "direccion": 1
+        }
+    },
+    {
+        "model": "cursosapp.curso",
+        "pk": "XYZ789",
+        "fields": {
+            "codigo": "XYZ789",
+            "nombre": "Matemáticas Avanzadas",
+            "version": 2,
+            "profesor": [
+                "456123789"
+            ],
+            "activo": true,
+            "creacion_registro": "2023-02-10",
+            "modificacion_registro": "2024-05-21",
+            "creado_por": "Director Académico"
+        }
+    },
+    {
+        "model": "cursosapp.direccion",
+        "pk": 1,
+        "fields": {
+            "calle": "Avenida Libertad",
+            "numero": "456",
+            "dpto": "2A",
+            "comuna": "Providencia",
+            "ciudad": "Santiago",
+            "region": "Metropolitana"
+        }
+    },
+    {
+        "model": "cursosapp.profesor",
+        "pk": "456123789",
+        "fields": {
+            "rut": "456123789",
+            "nombre": "Luis",
+            "apellido": "Martínez",
+            "activo": true,
+            "creacion_registro": "2021-10-05",
+            "modificacion_registro": "2024-05-21",
+            "creado_por": "Director Académico"
+        }
+    }
+]

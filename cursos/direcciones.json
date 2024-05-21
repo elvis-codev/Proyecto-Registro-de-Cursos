@@ -1,0 +1,122 @@
+[
+    {
+        "model": "cursosapp.direccion",
+        "pk": 1,
+        "fields": {
+            "calle": "Avenida Libertad",
+            "numero": "456",
+            "dpto": "2A",
+            "comuna": "Providencia",
+            "ciudad": "Santiago",
+            "region": "Metropolitana"
+        }
+    },
+    {
+        "model": "cursosapp.direccion",
+        "pk": 2,
+        "fields": {
+            "calle": "Calle Merced",
+            "numero": "789",
+            "dpto": "5B",
+            "comuna": "Santiago Centro",
+            "ciudad": "Santiago",
+            "region": "Metropolitana"
+        }
+    },
+    {
+        "model": "cursosapp.direccion",
+        "pk": 3,
+        "fields": {
+            "calle": "Avenida Los Conquistadores",
+            "numero": "1234",
+            "dpto": "10C",
+            "comuna": "Providencia",
+            "ciudad": "Santiago",
+            "region": "Metropolitana"
+        }
+    },
+    {
+        "model": "cursosapp.direccion",
+        "pk": 4,
+        "fields": {
+            "calle": "Calle Santa Isabel",
+            "numero": "567",
+            "dpto": "3D",
+            "comuna": "Ñuñoa",
+            "ciudad": "Santiago",
+            "region": "Metropolitana"
+        }
+    },
+    {
+        "model": "cursosapp.direccion",
+        "pk": 5,
+        "fields": {
+            "calle": "Avenida Apoquindo",
+            "numero": "890",
+            "dpto": "8E",
+            "comuna": "Las Condes",
+            "ciudad": "Santiago",
+            "region": "Metropolitana"
+        }
+    },
+    {
+        "model": "cursosapp.direccion",
+        "pk": 6,
+        "fields": {
+            "calle": "Calle San Diego",
+            "numero": "1111",
+            "dpto": "15F",
+            "comuna": "San Miguel",
+            "ciudad": "Santiago",
+            "region": "Metropolitana"
+        }
+    },
+    {
+        "model": "cursosapp.direccion",
+        "pk": 7,
+        "fields": {
+            "calle": "Avenida Suecia",
+            "numero": "222",
+            "dpto": "6G",
+            "comuna": "Providencia",
+            "ciudad": "Santiago",
+            "region": "Metropolitana"
+        }
+    },
+    {
+        "model": "cursosapp.direccion",
+        "pk": 8,
+        "fields": {
+            "calle": "Calle Nueva Providencia",
+            "numero": "333",
+            "dpto": "9H",
+            "comuna": "Providencia",
+            "ciudad": "Santiago",
+            "region": "Metropolitana"
+        }
+    },
+    {
+        "model": "cursosapp.direccion",
+        "pk": 9,
+        "fields": {
+            "calle": "Avenida Salvador",
+            "numero": "444",
+            "dpto": "12I",
+            "comuna": "Providencia",
+            "ciudad": "Santiago",
+            "region": "Metropolitana"
+        }
+    },
+    {
+        "model": "cursosapp.direccion",
+        "pk": 10,
+        "fields": {
+            "calle": "Calle Los Leones",
+            "numero": "555",
+            "dpto": "4J",
+            "comuna": "Providencia",
+            "ciudad": "Santiago",
+            "region": "Metropolitana"
+        }
+    }
+]

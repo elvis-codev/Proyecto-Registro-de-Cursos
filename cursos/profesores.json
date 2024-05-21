@@ -1,0 +1,132 @@
+[
+    {
+        "model": "cursosapp.profesor",
+        "pk": "456123789",
+        "fields": {
+            "rut": "456123789",
+            "nombre": "Luis",
+            "apellido": "Martínez",
+            "activo": true,
+            "creacion_registro": "2021-10-05",
+            "modificacion_registro": "2024-05-21",
+            "creado_por": "Director Académico"
+        }
+    },
+    {
+        "model": "cursosapp.profesor",
+        "pk": "789456123",
+        "fields": {
+            "rut": "789456123",
+            "nombre": "Ana",
+            "apellido": "García",
+            "activo": true,
+            "creacion_registro": "2021-10-10",
+            "modificacion_registro": "2024-05-21",
+            "creado_por": "Director Académico"
+        }
+    },
+    {
+        "model": "cursosapp.profesor",
+        "pk": "123789456",
+        "fields": {
+            "rut": "123789456",
+            "nombre": "Carlos",
+            "apellido": "Rodríguez",
+            "activo": true,
+            "creacion_registro": "2021-10-15",
+            "modificacion_registro": "2024-05-21",
+            "creado_por": "Director Académico"
+        }
+    },
+    {
+        "model": "cursosapp.profesor",
+        "pk": "456789123",
+        "fields": {
+            "rut": "456789123",
+            "nombre": "María",
+            "apellido": "López",
+            "activo": true,
+            "creacion_registro": "2021-10-20",
+            "modificacion_registro": "2024-05-21",
+            "creado_por": "Director Académico"
+        }
+    },
+    {
+        "model": "cursosapp.profesor",
+        "pk": "789123456",
+        "fields": {
+            "rut": "789123456",
+            "nombre": "Juan",
+            "apellido": "Pérez",
+            "activo": true,
+            "creacion_registro": "2021-10-25",
+            "modificacion_registro": "2024-05-21",
+            "creado_por": "Director Académico"
+        }
+    },
+    {
+        "model": "cursosapp.profesor",
+        "pk": "123456789",
+        "fields": {
+            "rut": "123456789",
+            "nombre": "Laura",
+            "apellido": "Díaz",
+            "activo": true,
+            "creacion_registro": "2021-10-30",
+            "modificacion_registro": "2024-05-21",
+            "creado_por": "Director Académico"
+        }
+    },
+    {
+        "model": "cursosapp.profesor",
+        "pk": "789123789",
+        "fields": {
+            "rut": "789123789",
+            "nombre": "Pedro",
+            "apellido": "Hernández",
+            "activo": true,
+            "creacion_registro": "2021-11-05",
+            "modificacion_registro": "2024-05-21",
+            "creado_por": "Director Académico"
+        }
+    },
+    {
+        "model": "cursosapp.profesor",
+        "pk": "456789456",
+        "fields": {
+            "rut": "456789456",
+            "nombre": "Sofía",
+            "apellido": "Martín",
+            "activo": true,
+            "creacion_registro": "2021-11-10",
+            "modificacion_registro": "2024-05-21",
+            "creado_por": "Director Académico"
+        }
+    },
+    {
+        "model": "cursosapp.profesor",
+        "pk": "123123123",
+        "fields": {
+            "rut": "123123123",
+            "nombre": "Diego",
+            "apellido": "López",
+            "activo": true,
+            "creacion_registro": "2021-11-15",
+            "modificacion_registro": "2024-05-21",
+            "creado_por": "Director Académico"
+        }
+    },
+    {
+        "model": "cursosapp.profesor",
+        "pk": "456456456",
+        "fields": {
+            "rut": "456456456",
+            "nombre": "Elena",
+            "apellido": "Gómez",
+            "activo": true,
+            "creacion_registro": "2021-11-20",
+            "modificacion_registro": "2024-05-21",
+            "creado_por": "Director Académico"
+        }
+    }
+]
